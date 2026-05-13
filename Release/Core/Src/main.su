@@ -1,0 +1,8 @@
+../Core/Src/main.c:192:7:midi_to_cutoff_hz	8	static
+../Core/Src/main.c:204:7:midi_to_resonance	0	static
+../Core/Src/main.c:210:7:fast_g	0	static
+../Core/Src/main.c:218:6:DMA_Callback	112	static
+../Core/Src/main.c:398:6:MIDI_Callback	16	static
+../Core/Src/main.c:622:6:SystemClock_Config	120	static,ignoring_inline_asm
+../Core/Src/main.c:530:5:main	120	static,ignoring_inline_asm
+../Core/Src/main.c:1028:6:Error_Handler	0	static,ignoring_inline_asm
