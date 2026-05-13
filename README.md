@@ -4,6 +4,9 @@
 
 # Digital Monosynth Built With STM32-Nucleo 
 
+<img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/d233721a-e5ea-4e99-aeca-4078c089c4ab" />
+
+
 This is, as the name suggests, code for a digital monophonic synthesizer built using an stm32 nucleo board and a sparkfun MIDI shield. 
 
 ## Capabilities
