@@ -14,9 +14,9 @@ This is, as the name suggests, code for a digital monophonic synthesizer built u
 This code implements a synthesizer with the following capabilities:
 - 3 waveforms (sinewave, sawtooth, and squarewave)
 - Low-Pass State-Variable Filter (SVF) with resonance
-- Communication over MIDI
+- Communication with MIDI peripherals using UART
 - ADS envelopes for both volume and filter
-- real time 48kHz audio generation
+- Real time 48kHz audio generation
 
 ## Setup
 
