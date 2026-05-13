@@ -44,10 +44,14 @@ Audio recordings were recorded on my phone with the microphone right in front of
 
 ### Waveform Demo 
 Sinwave, sawtooth, and squarewave in that order.
+
 https://github.com/user-attachments/assets/490576e3-c57a-4847-8e2a-41147b34f508
+
 ### Filter Demonstration
 Squarewave. filter sweep with no resonance, filter sweep with some resonance, and a filter sweep with maximum resonance (self oscilation).
+
 https://github.com/user-attachments/assets/73308151-cba4-4716-9658-780850c0a3db
+
 ### Volume Envelope Demonstration
 Squarewave. First example uses a short attack with max sustain, causing the notes to fade in. Second example uses a short decay and 0 sustain, producing plucky notes. The last example uses a short attack and a short decay, with about 50% sustain, causing notes to fade in and then fade out slightly. 
 
